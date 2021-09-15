@@ -37,6 +37,14 @@ h1 {
   padding: 0 20px 0 0; 
 }
 
+#kangaroo{
+  width: 350px; 
+  height: 260px;
+  float: left;
+  padding: 0 20px 0 0; 
+}
+
+
 
 #koala {
   width: 350px; 
