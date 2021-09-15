@@ -3,12 +3,12 @@
 
 
 h1 {
-  text-align: center;
+  text-align: left;
   font-family: monospace;
 }
 
 .container{
-  margin: 40px auto;
+  margin: 30px auto;
   width: 50%;
   
 }
