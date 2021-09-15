@@ -29,6 +29,11 @@ h1 {
   margin-right: auto;      
 }  */
 
+img {
+  height: auto;
+  width: 350px;
+
+}
 
 #panda{
   width: 350px; 
