@@ -29,6 +29,14 @@ h1 {
   margin-right: auto;      
 }  */
 
+
+#panda{
+  width: 350px; 
+  height: 200px;
+  float: left;
+  padding: 0 20px 0 0; 
+}
+
 img {
   width: 350px; 
   height: 300px;
@@ -37,12 +45,7 @@ img {
 
 }
 
-#panda{
-  width: 350px; 
-  height: 250px;
-  float: left;
-  padding: 0 20px 0 0; 
-}
+
 .lightText{
   font-weight: normal;
 }
