@@ -37,6 +37,12 @@ img {
 
 }
 
+.panda{
+  width: 350px; 
+  height: 250px;
+  float: left;
+  padding: 0 20px 0 0; 
+}
 .lightText{
   font-weight: normal;
 }
